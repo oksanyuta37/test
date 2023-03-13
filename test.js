@@ -1,2 +1,2 @@
 const test="test";
-alert("helloword")
+alert("привітики")
